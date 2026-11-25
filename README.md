@@ -94,7 +94,7 @@ ChickenPlus\_Analysis.sql answers 10 questions with Oracle SQL, using window fun
 
 ## How to open
 
-* **Power BI:** download `powerbi/ChickenPlusv02.pbix` and open it in Power BI
-* **Quick view:** open `report.pdf`
+* **Power BI:** download `ChickenPlusv02.pbix` and open it in Power BI
+* **Quick view:** open `Power BI report.pdf`
 * **SQL:** run the queries in Oracle
 
