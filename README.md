@@ -51,26 +51,26 @@ Order-level records (times, baskets, payment methods) were generated to follow t
 ### 1\. Overview
 
 Daily sales trend (with the Tết closure marked), monthly performance, sales by channel and earnings from every 100K ₫ sold.
-!\[Overview](images/01\_overview.png)
+![Overview](images/01_Overview.png)
 
 ### 2\. Channels \& products
 
 From sales to earnings by channel, top products by revenue, and products ordered together.
-!\[Channels and products](images/02\_channels\_products.png)
+![Channels and products](images/02_Channels_Products.png)
 
 ### 3\. Promotions
 
 Voucher KPIs, a voucher performance table and a before/during comparison of the March app promotion, using in-store as the comparison group.
-!\[Promotions](images/03\_promotions.png)
+![Promotions](images/03_Promotions.png)
 
 ### 4\. Order patterns
 
 Orders by weekday × hour (heatmap), orders by hour of day, daypart split and payment methods.
-!\[Order patterns](images/04\_order\_patterns.png)
+![Order patterns](images/04_order_patterns.png)
 
 ### Demo
 
-!\[Demo](ChickenPlusAnalysis\_Demo.gif)
+![Demo](ChickenPlusAnalysis_Demo.gif)
 
 \---
 
